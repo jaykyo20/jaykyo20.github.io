@@ -1,0 +1,71 @@
+
+body{
+	background-color:#EEEDE7;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+h1 {
+	border-radius: 25px;
+	text-align: center;
+	color: #2E8BC0;
+	
+}
+p {
+	border-radius: 25px;
+	text-align: center;
+	color: #2E8BC0;
+}
+table {
+	background-color: #B1D4E0;
+	border-radius: 25px;
+	
+	
+  }
+  th, td {
+    padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+    text-align: center;
+	
+  }
+  
+ #gned10{
+	 background-color:#ffec5c;
+ }
+ .dcit23{
+	 background-color:#e121e1;
+ }
+ .vacant{
+	 background-color:white;
+ }
+ .itec{
+	 background-color:#fa6e81;
+ }
+ #fitt{
+	 background-color:#FFB732;
+ }
+ #gned06{
+	 background-color:#329932;
+ }
+ #math{
+	 background-color:#1120ee;
+ }
+ #dcit21{
+	 background-color:#d00000;
+ }
+.dcit22{
+	 background-color:#9d6b53;
+}
+#gned01{
+	 background-color:#70d6ff;
+ }
+	
+	
+	
+	
+	
